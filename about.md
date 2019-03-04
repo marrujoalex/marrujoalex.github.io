@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm a Software Engineer from Orange, CA. I work on mobile development using Swift or Kotlin, and web development using C#, Go, Swift for my backend projects, and ReactJS for my front-end. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Some of my hobbies include working out, practicing Muay Thai, going to electronic music festivals, and learning new code paradigms or languages.
+
+Currently, Swift is my favorite language, and I'm excited to see how Swift develops as ABI Stability churns out successfully.
 
 ### Contact me
 
