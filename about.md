@@ -14,4 +14,4 @@ Currently, Swift is my favorite language, and I'm excited to see how Swift devel
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marrujo.alex@icloud.com](mailto:marrujo.alex@icloud.com)
